@@ -37,3 +37,11 @@ body{
     text-decoration: none;
 
 }
+
+.botaosecundario{
+    background-color: transparent;
+    padding: 1em;
+    border: solid 2px black;
+    border-radius: 10px;
+    
+}
