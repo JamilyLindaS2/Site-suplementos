@@ -8,4 +8,10 @@
 body{
     background-color: var(--cor-de-fundo);
 
+
+}
+
+.conteiner{
+    display: grid;
+    grid-template-columns: 50%;
 }
