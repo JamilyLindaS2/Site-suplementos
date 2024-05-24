@@ -3,6 +3,7 @@
     --cor-texto: #000;
     --botao-principal: #2b00a1;
     --texto-botao: #fff;
+    --texto-aviso: #8a8a8a;
 
 }
 
@@ -61,4 +62,10 @@ body{
     text-decoration: none;
     margin-bottom: 20px;
     
+}
+
+.aviso {
+    color: var(--texto-aviso);
+    font-size: 10px;
+
 }
