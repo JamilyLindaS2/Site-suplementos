@@ -21,6 +21,8 @@ body{
 
 .conteiner{
     background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gsuplementos.com.br%2Fcoqueteleira-simples-growth-supplements-p985924&psig=AOvVaw35ym5CiYK5dFN0AmEM3wk5&ust=1716647096568000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKii7fa-poYDFQAAAAAdAAAAABAE);
+    background-repeat: no-repeat;
+    background-position: left;
     display: grid;
     grid-template-columns: 50%;
     text-align: center;
