@@ -23,7 +23,7 @@ body{
     background-image: url(https://site-suplementos1231234.vercel.app/coqueteleira-simples-growth-supplements.png);
     background-repeat: no-repeat;
     background-position: right;
-    background-size: 300px contain;
+    background-size: contain;
     display: grid;
     grid-template-columns: 50%;
     text-align: center;
@@ -31,9 +31,7 @@ body{
 
 .textoprimario{
     font-size: 30px;
-    margin: 2em;
-
-
+    margin: 15vh;
 
 }
 
