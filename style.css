@@ -35,6 +35,11 @@ body{
 
 }
 
+.conteinerbotoes {
+    margin: 0 1vh;
+
+}
+
 .botaoprincipal {
     background-color: var(--botao-principal);
     color: var(--texto-botao);
