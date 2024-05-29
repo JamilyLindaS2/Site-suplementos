@@ -69,3 +69,14 @@ body{
     font-size: 20px;
     margin-bottom: 20px;
 }
+
+.conteiner2 {
+    display: grid;
+    grid-template-columns: 40% 60%;
+    
+}
+
+.coqueteleira {
+    width: 80%;
+
+}
