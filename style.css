@@ -74,7 +74,7 @@ body{
 .conteiner2 {
     display: grid;
     grid-template-columns: 50% 50%;
-    margin: 2em 1vh
+    margin: 2em 20px;
     
 }
 
