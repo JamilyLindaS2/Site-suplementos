@@ -1,5 +1,5 @@
 :root {
-    --cor-de-fundo: #ffffff;
+    --cor-de-fundo: #440055;
     --cor-texto: #000;
     --botao-principal: #2b00a1;
     --texto-botao: #fff;
@@ -22,6 +22,7 @@ body{
 }
 
 .conteiner{
+    background-color: var(--cor-de-fundo);
     background-image: url(https://site-suplementos1231234.vercel.app/saude-alinhada.cecf688.png);
     background-repeat: no-repeat;
     background-position: right;
