@@ -113,10 +113,14 @@ body{
 
 }
 
+.esquerda2 {
+    margin: 10em;
+
+}
+
 .texto3{
     font-size: 30px;
     text-align: center;
-    margin: 10vh;
 
 }
 
