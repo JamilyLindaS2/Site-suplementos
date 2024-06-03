@@ -133,3 +133,8 @@ body{
     justify-content: center;
 
 }
+
+.listalink{
+    list-style-type: none;
+
+}
