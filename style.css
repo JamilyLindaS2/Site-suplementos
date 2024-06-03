@@ -108,7 +108,7 @@ body{
 
 .conteiner3 {
     display: grid;
-    grid-template-columns: 60% 40%;
+    grid-template-columns: 50% 50%;
     color: var(--cor-texto);
 
 }
