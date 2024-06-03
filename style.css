@@ -131,6 +131,7 @@ body{
 .dispositivos{
     text-align: center;
     font-size: 20px;
+    color: var(--cor-texto);
 
 }
 
@@ -138,7 +139,6 @@ body{
     display: flex;
     justify-content: center;
     text-align: center;
-    color: var(--cor-texto);
 }
 
 .listalink{
