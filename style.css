@@ -150,3 +150,7 @@ body{
     text-align: center;
     margin: 5em;
 }
+
+.rodapelista{
+    display: flex;
+}
