@@ -150,14 +150,14 @@ body{
     text-align: center;
     margin: 5em;
     color: var(--cor-texto);
-    font-style: none;
+
 }
 
 .rodapelista{
     display: flex;
     justify-content: center;
     list-style-type: none;
-
+    font-style: none;
 }
 
 .rodapelink{
