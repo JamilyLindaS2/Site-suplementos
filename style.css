@@ -153,9 +153,7 @@ body{
 
 .rodapelista{
     display: flex;
-    align-items: center;
-    list-style-type: none;
-    align-content: center;
+    justify-content: center;
 }
 
 .rodapelink{
