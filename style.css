@@ -154,4 +154,10 @@ body{
 .rodapelista{
     display: flex;
     align-items: center;
+    list-style-type: none;
+}
+
+.rodapelink{
+    
+
 }
