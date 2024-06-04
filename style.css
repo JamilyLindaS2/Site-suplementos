@@ -150,6 +150,7 @@ body{
     text-align: center;
     margin: 5em;
     color: var(--cor-texto);
+    font-style: none;
 }
 
 .rodapelista{
