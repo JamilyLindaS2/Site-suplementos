@@ -161,5 +161,6 @@ body{
     text-align: justify;
     font-style: none;
     margin: 1em;
+    color: var(--texto-botao);
 
 }
