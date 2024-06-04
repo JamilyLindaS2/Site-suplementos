@@ -155,12 +155,13 @@ body{
     display: flex;
     justify-content: center;
     list-style-type: none;
+    color: var(--texto-botao);
 }
 
 .rodapelink{
     text-align: justify;
     font-style: none;
     margin: 1em;
-    color: var(--texto-botao);
+
 
 }
