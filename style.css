@@ -166,3 +166,8 @@ body{
     color: var(--cor-texto);
     font-style: none;
 }
+
+.logo{
+    margin: 2em;
+
+}
