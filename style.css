@@ -150,6 +150,7 @@ body{
     text-align: center;
     margin: 5em;
     color: var(--cor-texto);
+    font-style: none;
 
 }
 
@@ -163,6 +164,5 @@ body{
 .rodapelink{
     text-align: justify;
     margin: 1em;
-    font-style: none;
 
 }
