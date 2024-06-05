@@ -147,8 +147,12 @@ body{
 
 }
 
-.rodape{
+.container__rodape{
     background-color: var(--fundo-rodape);
+
+}
+
+.rodape{
     text-align: center;
     margin: 5em;
     font-style: none;
