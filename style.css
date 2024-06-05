@@ -164,4 +164,5 @@ body{
     text-align: justify;
     margin: 1em;
     color: var(--cor-texto);
+    font-style: none;
 }
