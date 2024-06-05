@@ -4,8 +4,6 @@
     --botao-principal: #2b00a1;
     --texto-botao: #fff;
     --texto-aviso: #8a8a8a;
-    --fundo-rodape: #0f0f0f;
-
 
 }
 
@@ -144,11 +142,6 @@ body{
 
 .listalink{
     list-style-type: none;
-
-}
-
-.containerrodape{
-    background-color: var(--fundo-rodape);
 
 }
 
