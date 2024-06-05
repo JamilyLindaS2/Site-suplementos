@@ -171,3 +171,8 @@ body{
     margin: 2em;
 
 }
+
+.rodapelink a:hover{
+    color: var(--botao-principal);
+
+}
