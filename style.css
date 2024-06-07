@@ -40,7 +40,7 @@ body{
 
 .conteinerbotoes a {
     display: block;
-    margin-bottom: 10px; /* Espaço entre os botões */
+    margin: 10px; /* Espaço entre os botões */
 }
 
 
