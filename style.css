@@ -38,10 +38,11 @@ body{
 
 }
 
-.conteinerbotoes {
-    margin: 0 1em;
-
+.conteinerbotoes a {
+    display: block;
+    margin-bottom: 10px; /* Espaço entre os botões */
 }
+
 
 .botaoprincipal {
     background-color: var(--botao-principal);
