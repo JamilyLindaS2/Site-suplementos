@@ -20,6 +20,18 @@ body{
 
 }
 
+.conteiner{
+    background-image: url(https://site-suplementos1231234.vercel.app/saude-alinhada.cecf688.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 60% 20%;
+    text-align: center;
+
+}
+
 .conteinerbotao {
     text-align: center; /* Centraliza os elementos */
 }
