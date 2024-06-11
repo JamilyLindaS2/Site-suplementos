@@ -20,35 +20,47 @@ body{
 
 }
 
-.conteiner {
-    text-align: center;
-    margin: 20px;
-  }
-  .textoprimario {
-    font-size: 24px;
-    margin-bottom: 20px;
-  }
-  .conteinerbotoes {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    justify-content: center;
-  }
-  .botaoprincipal,
-  .botaosecundario {
-    display: inline-block;
-    margin: 10px;
-    padding: 10px 20px;
-    background-color: #007bff;
-    color: #fff;
-    text-decoration: none;
-    border-radius: 5px;
-  }
-  .aviso {
-    margin-top: 20px;
-    font-style: italic;
-  }
+.conteinerbotao {
+    text-align: center; /* Centraliza os elementos */
+}
 
+.botaoprincipal,
+.botaosecundario {
+    display: inline-block; /* Exibe os botões como blocos em linha */
+    padding: 12px 24px; /* Adiciona preenchimento interno aos botões */
+    text-decoration: none; /* Remove sublinhado padrão dos links */
+    color: #000000; /* Cor do texto */
+    border-radius: 5px; /* Adiciona cantos arredondados ao botão */
+    font-size: 16px; /* Tamanho da fonte */
+    margin-bottom: 10px; /* Adiciona espaço entre os botões */
+}
+
+.botaoprincipal {
+    background-color: #007bff; /* Cor de fundo do botão principal */
+    border: 2px solid #007bff; /* Adiciona borda ao botão principal */
+}
+
+.botaoprincipal:hover {
+    background-color: #0056b3; /* Cor de fundo do botão principal ao passar o mouse */
+    border-color: #0056b3; /* Cor da borda do botão principal ao passar o mouse */
+}
+
+.botaosecundario {
+    background-color: transparent; /* Cor de fundo transparente para o botão secundário */
+    border: 2px solid black; /* Adiciona borda transparente para o botão secundário */
+}
+
+.botaosecundario:hover {
+    background-color: rgba(0, 0, 0, 0.1); /* Cor de fundo ligeiramente transparente ao passar o mouse */
+    border-color: rgba(0, 0, 0, 0.1); /* Cor da borda ligeiramente transparente ao passar o mouse */
+}
+
+.aviso {
+    text-align: center;
+    font-size: 20px;
+    color: grey;
+
+}
   
 .conteiner2 {
     display: grid;
