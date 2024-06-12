@@ -27,7 +27,7 @@ body{
     background-position: right;
     height: 100vh;
     display: grid;
-    grid-template-columns: 60% 20%;
+    grid-template-columns: 60% 40%;
     text-align: center;
 
 }
